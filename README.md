@@ -30,7 +30,6 @@ It’s powered by [DigitalOcean](https://hacktoberfest.digitalocean.com/), in co
 By joining, you can:
 - Make **4 quality pull requests** to any public GitHub repository.  
 - Become part of the **global open-source community**.  
-- Earn the **exclusive Hacktoberfest 2025 T-shirt** (for the first 10,000 participants 🎽).
 
 📍 Register here: [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
